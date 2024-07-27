@@ -1,4 +1,4 @@
-# APP About Me
+# APP EmailJS
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -6,7 +6,17 @@ A simple application to test the use of emailjs for sending a message via a form
 
 ## Description  
 
-  
+This project enables you to use the EmailJS service to send emails through a stylized React contact form. 
+To get started, follow the instructions below:
+
+1. **Sign Up**: Create an account on [EmailJS](https://www.emailjs.com/).
+2. **Service ID**: Access the email services and retrieve your unique service ID.
+3. **Email Template**: Create your own email template and get your template ID.
+4. **Integration**: Integrate EmailJS into your React application using these IDs.  
+
+The integration is straightforward and enhances communication within your application. Keep in mind that the free plan is limited to 200 emails per month.  
+You can view the pricing details of EmailJS at this link: [EmailJS Pricing](https://www.emailjs.com/pricing/).
+
 
 ![Example1](./documentation/example1.png)
 

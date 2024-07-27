@@ -1,8 +1,10 @@
+import EmailForm from '../components/Email_form.jsx'
+
 function App() {
   return (
-    <div className="App">
-      Hi
-    </div>
+    <>
+      <EmailForm />
+    </>
   );
 }
 
