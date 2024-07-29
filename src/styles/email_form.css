@@ -19,30 +19,30 @@ body {
     width: 100%;
     display: grid;
     grid-gap: 15px;
-  }
+}
   
-  label {
+label {
     font-weight: bold;
     color: #333;
-  }
+}
   
-  input[type="text"],
-  input[type="email"],
-  textarea {
-    width: 100%;
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 90%;
     padding: 10px;
     margin-top: 5px;
     border: 1px solid #ddd;
     border-radius: 5px;
     font-size: 16px;
-  }
+}
   
-  textarea {
+textarea {
     min-height: 100px;
     resize: vertical;
-  }
+}
   
-  input[type="submit"] {
+input[type="submit"] {
     background-color: #007bff;
     color: #ffffff;
     border: none;
@@ -51,23 +51,22 @@ body {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s ease;
-  }
+}
   
-  input[type="submit"]:hover {
+input[type="submit"]:hover {
     background-color: #0056b3;
-  }
+}
   
-  .success-message {
+.success-message {
     color: green;
     font-weight: bold;
     text-align: center;
     margin-top: 10px;
-  }
+}
   
-  .error-message {
+.error-message {
     color: red;
     font-weight: bold;
     text-align: center;
     margin-top: 10px;
-  }
-  
+}
