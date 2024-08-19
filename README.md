@@ -34,6 +34,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
 git clone https://github.com/HaDock404/app-test-emailjs.git
 cd app-test-emailjs 
+npm install
 ```  
 
 ## Launch Application   
